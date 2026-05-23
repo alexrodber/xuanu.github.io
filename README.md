@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Xuañu | Restaurante & Experiencia Gastronómica</title>
+    <title>Sidrería El Xuañu | Restaurante & Experiencia Gastronómica</title>
     <style>
         /* --- ESTILOS GENERALES Y VARIABLES --- */
         :root {
