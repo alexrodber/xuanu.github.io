@@ -364,7 +364,7 @@
     <header>
         <div class="contenedor">
             <nav>
-                <a href="#" class="logo">El <span>Xuañu</span></a>
+                <a href="#" class="logo">Sidrería El <span>Xuañu</span></a>
                 <ul class="nav-links">
                     <li><a href="#valores">Experiencia</a></li>
                     <li><a href="#filosofia">Nuestra Casa</a></li>
@@ -417,7 +417,7 @@
                     
                     <!-- TEXTO DE CONSENTIMIENTO SOLICITADO -->
                     <p class="texto-consentimiento">
-                        * Al cumplimentar y enviar este formulario, usted nos autoriza expresamente a almacenar los datos proporcionados en nuestro sistema de gestión y a ponernos en contacto con usted a través de su teléfono móvil con el único fin de confirmar, coordinar o gestionar los detalles de su reserva así como informarle de futuras ofertas.
+                        * Al cumplimentar y enviar este formulario, usted nos autoriza expresamente a almacenar los datos proporcionados, en nuestro sistema de gestión y a ponernos en contacto con usted a través de su teléfono móvil con el único fin de confirmar, coordinar o gestionar los detalles de su reserva así como informarle de futuras ofertas.
                     </p>
                 </form>
             </div>
